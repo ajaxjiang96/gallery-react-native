@@ -1,0 +1,7 @@
+export const UPDATE_QUERY = 'UPDATE_QUERY';
+
+export const FETCH_IMAGE_START = 'FETCH_IMAGE_START';
+export const FETCH_IMAGE_FAIL = 'FETCH_IMAGE_FAIL';
+export const FETCH_IMAGE_SUCCESS = 'FETCH_IMAGE_SUCCESS';
+
+export const SELECT_IMG = 'SELECT_IMG';
